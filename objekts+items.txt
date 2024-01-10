@@ -1,0 +1,18 @@
+Álltalános entitások:
+	- falu lakók
+	- rablók
+	- gyík emberek
+Boss:
+	- Rabló gyík ember
+Tárgyak:
+	- pisztoly
+	- zsebkés
+	- shotgun
+	- géppisztoly
+	- kevlár
+	- helmet
+	- szteroid
+Nevezett helyszínek:
+	- falu
+	- korom család ház
+	- bánya rendszer
